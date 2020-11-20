@@ -27,7 +27,7 @@ SECRET_KEY = '&omz2(ra5=k%u%q-@_koe4@sz$(zle4i*y$fy=-@jt7r=%g%0x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
